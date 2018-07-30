@@ -1,6 +1,6 @@
-Implimentataion of the Proof of work Algorithm (PoW)
+Implimentataion of the Proof of work Algorithm (PoW) using GO
        
-    Calclulate the nonce using POW Algorith and add nonce value to blockchain
+  
 
 * USAGE
 
